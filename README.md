@@ -8,7 +8,7 @@ This program says hello to the world. It demonstrates Python with VSCode and Git
 # Execution
 To execute the program: `python Hello.py`
 
-![Program screenshot displaying "Hello World"](screenshot.png)
+![Program screenshot displaying "Hello World"](Screenshot.png)
 
 # Useful Websites
 
